@@ -2,7 +2,7 @@
 
 ## Link
 
-FrontEnd Repository - https://github.com/JessLeal/ChatApp
+FrontEnd Repository - https://github.com/JessLeal/assessment-mm-ui
 
 
 ## About
